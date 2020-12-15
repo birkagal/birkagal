@@ -16,6 +16,7 @@ I enjoy learning new stuff and try to be the best I can!
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 <br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birkagal&theme=dark&layout=compact" align="center" />
 ## Contact
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail] [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin] 
 [<img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>][stackoverflow]
