@@ -1,27 +1,38 @@
 # Hello 👋
 ![Profile views](https://gpvc.arturio.dev/Birkagal)
 
-My name is Gal Birka. I'm 26 years old from Israel, Currently Software Engineering student at Afeka College of Engineering.
-<br/>
-I enjoy learning new stuff and try to be the best I can!
+My name is Gal Birka. I'm 27 years old from Israel. Visit my website 🌐 [`www.birkagal.com`](https://www.birkagal.com) \
+💻 B.Sc Software Engineering at Afeka Academic College of Engineering with 1 year remaining.
+
+
+I always enjoyed the computer world and have a deep passion for new technologies.
+I love learning new stuff, and aspire to improve myself each day. 
 
 ## Main Technologies & Languages
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/c/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/javascript-323330?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/python-14354C?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/c/c++-00599C?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> 
+<img src="https://img.shields.io/badge/java-ED8B00?&style=for-the-badge&logo=java&logoColor=white"/> 
+
+---
+
+<img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00c8ff"/> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Express.js-787878?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Spring-1FFF4F?style=for-the-badge&logo=spring&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
-<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> 
-<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-git-F05033?&style=for-the-badge&logo=git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-github-121011?&style=for-the-badge&logo=github&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-firebase-039BE5?&style=for-the-badge&logo=firebase"/> 
+<img src="https://img.shields.io/badge/-docker-0db7ed?&style=for-the-badge&logo=docker&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
-<br/>
+<br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birkagal&theme=dark&layout=compact" align="center" />
 ## Contact
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail] [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin] 
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail] [<img src="https://img.shields.io/badge/linkedin-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin] 
 [<img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>][stackoverflow]
 
-<img src="https://github-readme-stats.vercel.app/api?username=Birkagal&count_private=true&show_icons=true&theme=dark" align="center" />
 
 [gmail]: mailto:birkagal@gmail.com
 [linkedin]: https://www.linkedin.com/in/gal-birka-13474b198/
