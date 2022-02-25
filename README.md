@@ -1,12 +1,8 @@
 # Hello 👋
 ![Profile views](https://gpvc.arturio.dev/Birkagal)
 
-My name is Gal Birka. I'm 27 years old from Israel. Visit my website 🌐 [`www.birkagal.com`](https://www.birkagal.com) \
-💻 B.Sc Software Engineering at Afeka Academic College of Engineering with 1 year remaining.
+My name is Gal Birka. I'm 27 years old from Israel. Visit my website 🌐 [`www.birkagal.com`](https://www.birkagal.com)
 
-
-I always enjoyed the computer world and have a deep passion for new technologies.
-I love learning new stuff, and aspire to improve myself each day. 
 
 ## Main Technologies & Languages
 <img src="https://img.shields.io/badge/javascript-323330?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/python-14354C?&style=for-the-badge&logo=python&logoColor=white"/>
