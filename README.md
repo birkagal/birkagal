@@ -1,7 +1,11 @@
 # Hello 👋
 ![Profile views](https://gpvc.arturio.dev/Birkagal)
 
-My name is Gal Birka. I'm 27 years old from Israel. Visit my website 🌐 [`www.birkagal.com`](https://www.birkagal.com)
+💻 Software Engineer at Rapid7
+
+📙 B.Sc Software Engineering at Afeka Academic College of Engineering
+
+🌐 Find out more at www.birkagal.com
 
 
 ## Main Technologies & Languages
