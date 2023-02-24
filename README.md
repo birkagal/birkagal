@@ -35,5 +35,5 @@
 
 
 [gmail]: mailto:birkagal@gmail.com
-[linkedin]: https://www.linkedin.com/in/gal-birka-13474b198/
+[linkedin]: https://www.linkedin.com/in/birkagal
 [stackoverflow]: https://stackoverflow.com/users/10540279/birkagal
