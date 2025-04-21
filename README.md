@@ -1,6 +1,6 @@
 # Hello 👋
 
-💻 Software Engineer at Rapid7
+💻 Software Engineer at Conifers.ai
 
 📙 B.Sc Software Engineering at Afeka Academic College of Engineering
 
